@@ -200,6 +200,9 @@ main section .todo-list-card .todo-list-container .todo-list-item .list-item-lab
   margin: 0 5px;
   cursor: pointer;
 }
+main section .todo-list-card .todo-list-container .todo-list-item .list-item-label.muted-text {
+  color: #868b8f !important;
+}
 main section .todo-list-card .todo-list-container .todo-list-item .list-item-options {
   display: flex;
   align-items: center;
